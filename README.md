@@ -19,7 +19,7 @@ The page is designed to attract users with eye-catching visuals and clear calls 
 
 - HTML
 - CSS
-- JavaScript (Optional for interactions)
+- JavaScript (Optional for interactions) 
 
 
 
